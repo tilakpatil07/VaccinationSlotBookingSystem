@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VaccinationSlotBookingSystem.Slot">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAAAAA=</HashCode>
+      <FileName>Slot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VaccinationSlotBookingSystem.Hospital">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VaccinationSlotBookingSystem.BookingSystem">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookingSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VaccinationSlotBookingSystem.TestDataGenerator">
+    <Position X="3" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAABAAAAAAAAAAAAQAAAAAABAAAA=</HashCode>
+      <FileName>TestDataGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VaccinationSlotBookingSystem.DataValidator">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
