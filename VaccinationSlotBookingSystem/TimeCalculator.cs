@@ -22,7 +22,7 @@ namespace VaccinationSlotBookingSystem
 
                 Console.WriteLine(number.ToString() + " => " + stopwatch.Elapsed.TotalMilliseconds.ToString());
             }
-            Console.WriteLine("Data saved in file");
+            Console.WriteLine("Execution Completed");
         }
 
         public void CalculateSearchTime(List<Hospital> hospitalList)
